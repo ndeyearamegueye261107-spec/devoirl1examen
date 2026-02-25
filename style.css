@@ -1,0 +1,55 @@
+ section{
+            border: 2px solid;
+            width: 50%;
+            margin-left: 25%;
+        }
+        h4{
+            background-color: lightgrey;
+            text-align-last: center;
+            padding: 20px;
+        }
+        input{
+            width: 97%;
+            padding: 10px;
+            border-radius: 5px;
+            box-sizing: border-box;
+            margin: 15px;
+        }
+        button{
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .btn button {
+            background-color: rgb(106, 106, 223);
+            border-color: rgb(109, 109, 235);
+            margin-top: 5px;
+            margin-left: 535px;
+        }
+        .mba button{
+            background-color: orange;
+            border-color: orange;
+        }
+        .arm button{
+            background-color: rgb(83, 83, 236);
+            border-color: rgb(83, 83, 236);;
+        }
+        .zey button{
+            background-color: rgb(17, 167, 17);
+            border-color: rgb(17, 167, 17);
+        }
+        fieldset{
+            background-color: #f7f7f7;
+            display: flex;
+            margin: 10px;
+            padding: 3%;
+            gap: 15px
+        }
+        a{
+            color: white;
+        }
+        .but{
+            background-color: rgb(25, 177, 25);
+        }
+        
+ 
